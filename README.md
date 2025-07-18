@@ -87,5 +87,5 @@ Sales managers need to continuously monitor revenue, budget alignment, top-selli
 
 * Screenshots/Demos
 Sales Dashboard : (https://github.com/rumana667/data_analytics_dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png)
-Customer Dashboard : ()
+Customer Dashboard : (https://github.com/rumana667/data_analytics_dashboard/blob/main/Snapshot%20%203.png)
 Product Dashboard : (https://github.com/rumana667/data_analytics_dashboard/blob/main/Snapshot%202.png)
