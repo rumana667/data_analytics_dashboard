@@ -1,24 +1,90 @@
-# 📊 Sales Performance Dashboard
+Sales Performance Dashboard
+An interactive Power BI dashboard created to monitor and analyze sales performance across customers, products, and regions — helping stakeholders identify revenue trends, top performers, and growth opportunities.
 
-This dashboard provides deep insights into:
+📌 Short Description / Purpose
+This dashboard offers a comprehensive view of sales vs. budget performance, customer buying patterns, product category contributions, and monthly trends. It empowers business leaders to make data-driven decisions using real-time insights.
 
-💰 Total Sales, Profit, and Quantity by Region & Category  
-📊 Top 5 Performing Products  
-📅 Monthly Sales Trends  
-🏷️ Discount Impact on Revenue  
-🎯 KPIs like Average Sales per Customer  
+🛠 Tech Stack
+Power BI Desktop – Used to design dynamic and interactive dashboards
 
-## 🛠 Tools Used:
-✔ Power BI (for dynamic & interactive visuals)  
-✔ SQL (to clean, filter, and aggregate sales data)
+* SQL – Employed to clean, filter, and aggregate raw sales data
 
-## 🔍 What I Practiced:
-- SQL joins, GROUP BY, and window functions  
-- DAX calculations (Revenue, Profit, Quantity Sold)  
-- Executive-level dashboard design for decision making
+* DAX – For KPIs like Total Sales, Budget, Sales vs. Budget Gap
 
-## Screenshots
+* Power Query – For data transformation and pre-processing
 
-Dashboard Preview : ()
+* Data Modeling – To define relationships between fact and dimension tables
 
+* .pbix File Format – For dashboard file used in Power BI
 
+* Excel – Raw data sourced and structured for analysis
+
+🗂️ Data Source
+Source: Retail Sales Dataset (internal/project-based)
+
+Structure:
+
+* Customer data: Names, city, monthly sales
+
+* Product data: Categories, subcategories, product name
+
+* Sales data: Date-wise transactions, quantity, profit, and discounts
+
+* Budget data: Monthly targets
+
+✨ Features / Highlights
+💼 Business Problem
+Sales managers need to continuously monitor revenue, budget alignment, top-selling products, and customer engagement to optimize strategy. However, raw spreadsheets are overwhelming and lack insight.
+
+🎯 Goal
+
+* To provide a clear, concise, and visually appealing dashboard that:
+
+* Tracks sales vs. budget monthly and yearly
+
+* Identifies top customers and products
+
+* Highlights regional sales performance
+
+* Evaluates product category contribution
+
+📊 Walkthrough of Key Visuals
+
+* Sales vs Budget KPIs (Top Cards)
+* Total Sales: ₹22,239,730
+* Budget: ₹21,100,000
+* Gap: ₹1,139,730
+* Sales by Month (Line Chart)
+* Tracks actual vs. budgeted revenue per month
+* Top 10 Customers (Bar Chart)
+* Shows high-value customers like Jordan Turner & Maurice Shan
+* Top 10 Products (Bar Chart)
+* Highlights top revenue-generating products like Mountain-200 Series
+* Sales by Customer City (Map Visual)
+* Geographic visualization of customer density and sales volume
+* Sales by Product Category & Subcategory (Donut Charts)
+* Product mix: Bikes, Accessories, Clothing, and Subcategories
+* Detailed Matrix Table (Monthly Breakdown)
+* Month-wise sales performance of customers and products
+
+🔍 Business Impact & Insights
+
+-> Target Achievement Tracking: Sales vs. Budget analysis supports performance reviews
+
+-> Product Strategy: Helps businesses focus on top-selling items
+
+-> Customer Retention: Identifies valuable customers for loyalty programs
+
+-> Regional Focus: Pinpoints cities with high sales potential
+
+-> Decision Support: Assists managers in inventory, pricing, and marketing strategy
+
+💡Highlights
+
+-> Designed to be filterable by Year, City, Subcategory, and Product
+-> Enhanced user experience using slicers and responsive visuals
+-> Fully dynamic for stakeholder presentation & executive-level reporting
+
+* Screenshots/Demos
+Show what the dashboard looks like
+Example: [Dashboard Preview] ()
