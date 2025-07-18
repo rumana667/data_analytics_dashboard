@@ -17,6 +17,8 @@ This dashboard provides deep insights into:
 - DAX calculations (Revenue, Profit, Quantity Sold)  
 - Executive-level dashboard design for decision making
 
-💡 This project was a great learning experience and I’m excited to keep growing and sharing more!
+## Screenshots
+
+Dashboard Preview : ()
 
 
