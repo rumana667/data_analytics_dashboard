@@ -95,7 +95,9 @@ Sales vs Budget KPIs (Top Cards)
 
 * Screenshots / Demos
 
-[Sales Dashboard](images/SalesDashboard.png)
+[Sales Dashboard]
+
+(https://github.com/rumana667/sales_data_analysis_dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png)
 
 [Customer Dashboard](images/CustomerDashboard.png)
 
