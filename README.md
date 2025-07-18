@@ -86,5 +86,6 @@ Sales managers need to continuously monitor revenue, budget alignment, top-selli
 -> Fully dynamic for stakeholder presentation & executive-level reporting
 
 * Screenshots/Demos
-Show what the dashboard looks like
-Example: [Dashboard Preview] ()
+Sales Dashboard : (https://github.com/rumana667/data_analytics_dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png)
+Customer Dashboard : ()
+Product Dashboard : ()
