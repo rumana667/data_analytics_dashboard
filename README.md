@@ -1,94 +1,102 @@
-Sales Performance Dashboard
+🚀 Sales Performance Dashboard
+
 An interactive Power BI dashboard created to monitor and analyze sales performance across customers, products, and regions — helping stakeholders identify revenue trends, top performers, and growth opportunities.
 
 📌 Short Description / Purpose
+
 This dashboard offers a comprehensive view of sales vs. budget performance, customer buying patterns, product category contributions, and monthly trends. It empowers business leaders to make data-driven decisions using real-time insights.
 
 🛠 Tech Stack
-Power BI Desktop – Used to design dynamic and interactive dashboards
+The dashboard was built using the following tools and technologies:
 
-* SQL – Employed to clean, filter, and aggregate raw sales data
+📊 Power BI Desktop – Used to design dynamic and interactive dashboards
 
-* DAX – For KPIs like Total Sales, Budget, Sales vs. Budget Gap
+🧮 SQL – Used to clean, filter, join tables, and aggregate raw sales data before loading into Power BI
 
-* Power Query – For data transformation and pre-processing
+📈 DAX (Data Analysis Expressions) – For KPIs like Total Sales, Budget, Sales vs. Budget Gap
 
-* Data Modeling – To define relationships between fact and dimension tables
+🔍 Power Query – For data transformation and pre-processing inside Power BI
 
-* .pbix File Format – For dashboard file used in Power BI
+🔗 Data Modeling – To define relationships between fact and dimension tables
 
-* Excel – Raw data sourced and structured for analysis
+📁 .pbix File Format – Used in Power BI for dashboard development
+
+📊 Excel Dataset – Raw data source for customers, sales, products, and budget
 
 🗂️ Data Source
-Source: Retail Sales Dataset (internal/project-based)
+Source: Internal/Project-based Retail Sales Dataset
 
 Structure:
 
-* Customer data: Names, city, monthly sales
+-> Customer Data – Name, City, Monthly Sales
 
-* Product data: Categories, subcategories, product name
+-> Product Data – Category, Subcategory, Product Name
 
-* Sales data: Date-wise transactions, quantity, profit, and discounts
+-> Sales Data – Date-wise transactions, Quantity, Profit, Discounts
 
-* Budget data: Monthly targets
+-> Budget Data – Monthly sales targets
 
 ✨ Features / Highlights
 💼 Business Problem
-Sales managers need to continuously monitor revenue, budget alignment, top-selling products, and customer engagement to optimize strategy. However, raw spreadsheets are overwhelming and lack insight.
+Sales managers need to continuously monitor revenue, track budgets, and identify top products and customers. However, static spreadsheets make it difficult to get actionable insights quickly.
 
 🎯 Goal
 
-* To provide a clear, concise, and visually appealing dashboard that:
+-> To deliver a visually engaging, interactive Power BI dashboard that:
 
-* Tracks sales vs. budget monthly and yearly
+-> Tracks monthly and yearly sales vs. budget
 
-* Identifies top customers and products
+-> Highlights top-performing products and customers
 
-* Highlights regional sales performance
+-> Evaluates regional performance
 
-* Evaluates product category contribution
+-> Supports data-driven product and customer strategy
 
 📊 Walkthrough of Key Visuals
+Sales vs Budget KPIs (Top Cards)
 
-* Sales vs Budget KPIs (Top Cards)
-* Total Sales: ₹22,239,730
-* Budget: ₹21,100,000
-* Gap: ₹1,139,730
-* Sales by Month (Line Chart)
-* Tracks actual vs. budgeted revenue per month
-* Top 10 Customers (Bar Chart)
-* Shows high-value customers like Jordan Turner & Maurice Shan
-* Top 10 Products (Bar Chart)
-* Highlights top revenue-generating products like Mountain-200 Series
-* Sales by Customer City (Map Visual)
-* Geographic visualization of customer density and sales volume
-* Sales by Product Category & Subcategory (Donut Charts)
-* Product mix: Bikes, Accessories, Clothing, and Subcategories
-* Detailed Matrix Table (Monthly Breakdown)
-* Month-wise sales performance of customers and products
+-> Total Sales: ₹22,239,730
+
+-> Budget: ₹21,100,000
+
+-> Gap: ₹1,139,730
+
+-> Sales by Month (Line Chart) – Visualizes monthly sales vs. budget
+
+-> Top 10 Customers (Bar Chart) – Jordan Turner, Maurice Shan, etc.
+
+-> Top 10 Products (Bar Chart) – Revenue-generating items like Mountain-200 Series
+
+-> Sales by City (Map Visual) – Location-wise revenue and customer count
+
+-> Category & Subcategory Split (Donut Charts) – Bikes, Accessories, Clothing, etc.
+
+-> Monthly Matrix Table – Sales breakdown across customers and products
 
 🔍 Business Impact & Insights
 
--> Target Achievement Tracking: Sales vs. Budget analysis supports performance reviews
+-> Target Achievement Tracking – Helps in performance reviews
 
--> Product Strategy: Helps businesses focus on top-selling items
+-> Customer Retention Focus – Identifies high-value, repeat customers
 
--> Customer Retention: Identifies valuable customers for loyalty programs
+-> Product Strategy – Focus on items with consistent high performance
 
--> Regional Focus: Pinpoints cities with high sales potential
+-> Geographical Insights – Determine top-performing cities
 
--> Decision Support: Assists managers in inventory, pricing, and marketing strategy
+-> Decision Support – Aids pricing, inventory, and marketing decisions
 
-💡Highlights
+💡 Bonus Highlights
 
--> Designed to be filterable by Year, City, Subcategory, and Product
--> Enhanced user experience using slicers and responsive visuals
--> Fully dynamic for stakeholder presentation & executive-level reporting
+-> Interactive slicers for Year, City, Product Category, and more
 
-* Screenshots/Demos
-  
-Sales Dashboard : (https://github.com/rumana667/data_analytics_dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png)
+-> Built for executive-level reporting and presentations
 
-Customer Dashboard : (https://github.com/rumana667/data_analytics_dashboard/blob/main/Snapshot%20%203.png)
+-> Fully dynamic and refreshable with new data uploads
 
-Product Dashboard : (https://github.com/rumana667/data_analytics_dashboard/blob/main/Snapshot%202.png)
+* Screenshots / Demos
+
+[Sales Dashboard](images/SalesDashboard.png)
+
+[Customer Dashboard](images/CustomerDashboard.png)
+
+[Product Dashboard](images/ProductDashboard.png)
