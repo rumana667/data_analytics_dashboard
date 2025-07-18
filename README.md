@@ -19,4 +19,4 @@ This dashboard provides deep insights into:
 
 💡 This project was a great learning experience and I’m excited to keep growing and sharing more!
 
-#PowerBI #SQL #DataAnalytics #SalesDashboard #DashboardDesign #RumanaSaifi
+
